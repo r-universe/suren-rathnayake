@@ -1,10 +1,10 @@
 [
   {
-    "package": "EMMIXmfa",
+    "package": "deepgmm",
     "oncran": true
   },
   {
-    "package": "deepgmm",
+    "package": "EMMIXmfa",
     "oncran": true
   }
 ]
