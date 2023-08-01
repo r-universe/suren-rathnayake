@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "deepgmm"]
-	path = deepgmm
-	url = https://github.com/suren-rathnayake/deepgmm
 [submodule "EMMIXmfa"]
 	path = EMMIXmfa
 	url = https://github.com/suren-rathnayake/emmixmfa
+[submodule "deepgmm"]
+	path = deepgmm
+	url = https://github.com/suren-rathnayake/deepgmm
